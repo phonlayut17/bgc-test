@@ -7,6 +7,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.row-header-add-data {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-form {
+justify-content: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
